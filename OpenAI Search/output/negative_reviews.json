@@ -1,0 +1,32 @@
+ {
+  "@odata.context": "https://labs-ai-search.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 0.2876821,
+      "content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9zdG9ybGFic2VhcmNoLmJsb2IuY29yZS53aW5kb3dzLm5ldC9sYWJzc2VhcmNocmV2aWV3cy9yZXZpZXctOC5kb2N40",
+      "locations": [
+        "Chicago",
+        "Illinois"
+      ],
+      "keyphrases": [
+        "Terrible experience",
+        "Review",
+        "pastries",
+        "time",
+        "box",
+        "Date",
+        "October",
+        "Location",
+        "Chicago",
+        "Illinois"
+      ],
+      "sentiment": "[\"negative\"]",
+      "merged_content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
+      "text": [],
+      "layoutText": [],
+      "imageTags": [],
+      "imageCaption": []
+    }
+  ]
+}
